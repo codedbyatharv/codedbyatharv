@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on **LeetCode, AI Projects & Full Stack Development**<br>- 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, React**<br>- 👯 I’m looking to collaborate on **Open Source and AI Projects**<br>- 🤝 I’m looking for help with **Advanced DSA and System Design**<br>- 💬 Ask me about **C++, Python, JavaScript, React, Git**<br>- ⚡ Fun fact: **I solve bugs faster after coffee ☕**<br>
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=codedbyatharv &theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=codedbyatharv &theme=one_dark_pro&hide_border=false)<br/>
