@@ -1,44 +1,34 @@
-name: Update profile art
+<div align="center">
 
-on:
-  schedule:
-    - cron: "17 3 * * *"   # daily, off-the-hour to avoid GH Actions rush
-  workflow_dispatch: {}     # allows manual "Run workflow" trigger
+<h2>𝖠𝗍𝗁𝖺𝗋𝗏 𝖡𝗁𝖺𝗇𝗀𝖺𝗅𝖾 — 𓆩 ✧ 𝘾𝙤𝙙𝙞𝙣𝙜 𝙞𝙣 𝙎𝙞𝙡𝙚𝙣𝙘𝙚, 𝙋𝙪𝙨𝙝𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝙋𝙚𝙖𝙘𝙚 ✧ 𓆪</h2>
+<p>Git-ing through life... one commit at a time. 🌙 19 | 🧠 Engineering student</p>
 
-permissions:
-  contents: write
+<p>
+  <a href="https://atharvbhangale.netlify.app/">Portfolio</a> ·
+  <a href="#">LinkedIn</a> ·
+  <a href="#">Instagram</a>
+</p>
 
-jobs:
-  refresh:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+</div>
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+<br/>
 
-      - name: Install scraper deps
-        run: pip install -r scripts/requirements.txt
+<table>
+<tr>
+<td width="370" valign="top">
+<img src="./avi-ascii.svg" width="370" alt="ASCII portrait"/>
+</td>
+<td width="490" valign="top">
+<img src="./info-card.svg" width="490" alt="Info panel"/>
+</td>
+</tr>
+</table>
 
-      - name: Fetch contributions
-        env:
-          GH_PROFILE_USER: ${{ github.repository_owner }}
-        run: python scripts/fetch_contributions.py
+<br/>
 
-      - name: Render heatmap
-        run: python scripts/render_heatmap_svg.py
+<img src="./contrib-heatmap.svg" width="880" alt="Contribution heatmap"/>
 
-      - name: Commit if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/contributions.json contrib-heatmap.svg
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: refresh contribution heatmap"
-            git push
-          fi
+<br/><br/>
+
+<sub>Portrait, info panel, and heatmap are self-hosted animated SVGs, regenerated
+daily by GitHub Actions — no external stats services, no broken images.</sub>
