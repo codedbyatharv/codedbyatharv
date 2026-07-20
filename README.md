@@ -1,11 +1,4 @@
-<img width="191" height="150" alt="avi-ascii" src="https://github.com/user-attachments/assets/b308c2a0-2ff6-48d9-b78b-07dbe056925d" />
-
-
-
-
-
-
-
+<img width="1880" height="auto" alt="avi-ascii" src="https://github.com/user-attachments/assets/ae52e23f-602e-4e4a-ab47-ecd8d1ce3b14" /><svg viewBox="0 0 597 468" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7">
 
 # 💫 About Me:
 🔭 I'm currently working on responsive web applications and UI/UX projects.<br>🤝 I'm looking to collaborate on open source and innovative startup ideas.<br>🫶 I'm looking for help with AI, Machine Learning, and system design.<br>🌱 I'm currently learning React, Next.js, Python, and AI technologies.<br>💬 Ask me about UI/UX Design, Frontend Development, Git, and GitHub.<br>⚡ Fun fact: I enjoy turning ideas into clean, user friendly digital experiences.
