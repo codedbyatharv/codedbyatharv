@@ -1,5 +1,5 @@
-<img width="736" height="736" alt="PURTAGOL FIFA 2026" src="https://github.com/user-attachments/assets/41c99583-6089-4b70-822b-9e92444fecc4" />
-<img width="1880" height="auto" alt="avi-ascii" src="https://github.com/user-attachments/assets/ae52e23f-602e-4e4a-ab47-ecd8d1ce3b14" /><svg viewBox="0 0 597 468" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7">
+
+<img width="735" height="881" alt="download (1)" src="https://github.com/user-attachments/assets/d9cfbd3c-c23a-4e2a-a8d3-d23cb315657f" />
 
 # 💫 About Me:
 🔭 I'm currently working on responsive web applications and UI/UX projects.<br>🤝 I'm looking to collaborate on open source and innovative startup ideas.<br>🫶 I'm looking for help with AI, Machine Learning, and system design.<br>🌱 I'm currently learning React, Next.js, Python, and AI technologies.<br>💬 Ask me about UI/UX Design, Frontend Development, Git, and GitHub.<br>⚡ Fun fact: I enjoy turning ideas into clean, user friendly digital experiences.
