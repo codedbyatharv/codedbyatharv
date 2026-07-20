@@ -1,3 +1,4 @@
+<img width="736" height="736" alt="PURTAGOL FIFA 2026" src="https://github.com/user-attachments/assets/41c99583-6089-4b70-822b-9e92444fecc4" />
 <img width="1880" height="auto" alt="avi-ascii" src="https://github.com/user-attachments/assets/ae52e23f-602e-4e4a-ab47-ecd8d1ce3b14" /><svg viewBox="0 0 597 468" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7">
 
 # 💫 About Me:
