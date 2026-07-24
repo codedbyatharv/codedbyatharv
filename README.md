@@ -1,6 +1,10 @@
 
-<img width="735" height="881" alt="download (1)" src="https://github.com/user-attachments/assets/d9cfbd3c-c23a-4e2a-a8d3-d23cb315657f" />
+> Initializing atharv.dev...
 
+Loading AI Core.............100%
+Loading Developer Profile...100%
+Syncing GitHub Stats........OK
+Welcome.
 # 💫 About Me:
 🔭 I'm currently working on responsive web applications and UI/UX projects.<br>🤝 I'm looking to collaborate on open source and innovative startup ideas.<br>🫶 I'm looking for help with AI, Machine Learning, and system design.<br>🌱 I'm currently learning React, Next.js, Python, and AI technologies.<br>💬 Ask me about UI/UX Design, Frontend Development, Git, and GitHub.<br>⚡ Fun fact: I enjoy turning ideas into clean, user friendly digital experiences.
 
