@@ -51,60 +51,15 @@
 
 <br/>
 
-## 💫 Featured Projects
+## 💭 Random Quote
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 [Project One](https://github.com/codedbyatharv/project-one)
-Short one-line description of what it does and why it's cool.
-
-`Python` `API` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 [Project Two](https://github.com/codedbyatharv/project-two)
-Short one-line description of what it does and why it's cool.
-
-`React` `Next.js` `CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍡 [Project Three](https://github.com/codedbyatharv/project-three)
-Short one-line description of what it does and why it's cool.
-
-`C++` `DSA`
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [Project Four](https://github.com/codedbyatharv/project-four)
-Short one-line description of what it does and why it's cool.
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
-</table>
-
-<div align="center"><i>swap these four in with your real repos, titles & one-liners</i></div>
+<p align="center">
+<img src="https://readme-daily-quotes.vercel.app/api?bg_color=ffffff&quote_color=B4A7D6&author_color=333333&accent_color=FF9AA2&border_color=FFDAC1&border_radius=16" alt="Random Quote" />
+</p>
 
 <br/>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codedbyatharv&show_icons=true&theme=vue-dark&bg_color=00000000&title_color=B4A7D6&icon_color=FF9AA2&text_color=333333&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyatharv&background=00000000&border=0&ring=FF9AA2&fire=FFDAC1&currStreakLabel=B4A7D6&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=333333" height="170"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyatharv&layout=compact&theme=vue-dark&bg_color=00000000&title_color=B4A7D6&text_color=333333&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyatharv&bg_color=ffffff&color=B4A7D6&line=FF9AA2&point=A0E7E5&area=true&hide_border=true" width="90%"/>
