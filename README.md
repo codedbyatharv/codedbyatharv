@@ -1,3 +1,4 @@
+<img width="736" height="736" alt="🧣 pin page" src="https://github.com/user-attachments/assets/3b0279b4-dd0d-4758-8202-86fff1589799" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=B4A7D6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Atharv+%F0%9F%91%8B;CS+Student+%7C+Building+Cool+Stuff;Currently+Leveling+Up+in+React+%26+Next.js" alt="Typing SVG" />
